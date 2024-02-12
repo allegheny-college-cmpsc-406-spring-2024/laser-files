@@ -5,7 +5,7 @@ In this demo, we'll get some quick practice designing files for the laser cutter
 You can reference [this link](https://github.com/allegheny-college-cmpsc-406-spring-2024/laer-cut-wheel-example) in the laser cutter demo and explanation. 
 
 > [!IMPORTANT]  
-> By default, professor will supervise all laser cuts. If you plant to use the laser cutter a lot, you may request authorization to use it on your own, and I will train you in more detail. 
+> By default, professor will supervise all laser cuts. If you plan to use the laser cutter a lot, you may request authorization to use it on your own, and I will train you in more detail. 
 
 # Instructions
 
