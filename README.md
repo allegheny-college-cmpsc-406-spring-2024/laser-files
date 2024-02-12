@@ -20,7 +20,7 @@ See `IoT.svg`
 
 2. If using Illustrator, set the color mode to RGB by selecting File>Document Color Mode>RGB Color
 
-3. Create a design with text inside of a vector cut shape that is 2" X 2" or less. Remember a *raster* is a pixel shape and will be burned into the material pixel by pixel. A *vector* is a line shape and will be cut into the board in a continuous line. (See theexample above for more info)
+3. Create a design with text inside of a vector cut shape that is 2" X 2" or less. Remember a *raster* is a pixel shape and will be burned into the material pixel by pixel. A *vector* is a line shape and will be cut into the board in a continuous line. (See example above.)
 
 4. Set the text's fill to black. 
 
