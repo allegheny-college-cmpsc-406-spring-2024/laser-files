@@ -26,5 +26,5 @@ See `IoT.svg`
 
 5. Set the vector line's color to pure red (hex #FF0000 or RGB (255, 0, 0)) and its line weight to 0.001 inches. Make sure the shape is not filled.
 
-6. Save your work to `<your_first_name>.ai` and upload it to [this folder](https://drive.google.com/drive/folders/1AGZUj6FKIxE-EstXafklDarH_8WXH7qH?usp=drive_link) on Google Drive. 
+6. Save your work to `<your_first_name>.ai` or `<your_first_name>.svg` and upload it to [this folder](https://drive.google.com/drive/folders/1AGZUj6FKIxE-EstXafklDarH_8WXH7qH?usp=drive_link) on Google Drive. 
 
