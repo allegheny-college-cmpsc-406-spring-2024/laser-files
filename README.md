@@ -11,6 +11,7 @@ You can reference [this link](https://github.com/allegheny-college-cmpsc-406-spr
 # Example
 
 ![Alt text](image.png)
+
 See `IoT.svg`
 
 # Instructions
